@@ -1,7 +1,7 @@
 # NPSASA
 NPS pluging to append TunnelGroup to the CalledStationId
 
-This should allow creating NPS conditions depending on the tunnel-group the user has connected to.
+This should allow creating NPS conditions depending on the Cisco ASA tunnel-group the user has connected to.
 
 to install run:
 
